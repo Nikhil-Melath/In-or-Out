@@ -24,7 +24,7 @@ Welcome to "In or Out," a simple command-line cricket game written in Python. Th
 
 3. Run the game.
    ```bash
-   python in or out.py
+   python in_or_out.py
 
 4. Follow the on-screen instructions to play the game. Enter a number between 1 and 6 when it's your turn.
 
