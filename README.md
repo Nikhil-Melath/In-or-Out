@@ -16,7 +16,7 @@ Welcome to "In or Out," a simple command-line cricket game written in Python. Th
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/in or out.git
+   git clone https://github.com/your-username/in-or-out.git
    
 2. Navigate to the project directory.
    ```bash
@@ -24,7 +24,7 @@ Welcome to "In or Out," a simple command-line cricket game written in Python. Th
 
 3. Run the game.
    ```bash
-   python in_or_out.py
+   python in or out.py
 
 4. Follow the on-screen instructions to play the game. Enter a number between 1 and 6 when it's your turn.
 
